@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Employee.h"
+#include "../headers/Employee.h"
 
 int main() {
 

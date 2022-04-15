@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "Employee.h"
+#include "../headers/Employee.h"
 
 void fillEmployee(Temp *employee, int size) {
     for (int i = 0; i < size; i++) {
